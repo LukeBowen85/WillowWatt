@@ -1,4 +1,4 @@
-# WillowWatt: Optimizing Energy Management with AI and Machine Learning
+# <img src="WillowWatt_logo.png" alt="WillowWatt Logo" width="250" height="250">
 
 **WillowWatt** is partnering with **Willow** to transform energy management in buildings through advanced **AI**, **Machine Learning (ML)**, and **Optimization** techniques. With buildings in the US consuming 76% of all electricity and contributing to 40% of total CO₂ emissions, improving energy efficiency is a critical challenge.
 
@@ -22,10 +22,6 @@ This approach aims to:
 - Enhance **energy resilience**
 
 Ultimately, it contributes to achieving **NAU’s carbon neutrality target for 2030**.
-
-### Collaboration and Development
-
-The initial concept for this project was provided by our sponsor through a Capstone project proposal. However, the system you see today is the result of months of **collaborative design, prototyping, and refinement**, with direct input from Willow's **Director of Energy Transformation**.
 
 ### Technologies Used
 
